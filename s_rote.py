@@ -1,3 +1,14 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Related resources:
+https://github.com/nobleo/full_coverage_path_planner
+https://github.com/ipa320/ipa_coverage_planning
+https://github.com/Fields2Cover/Fields2Cover
+https://www.zhihu.com/question/387391966/answer/2588854807
+https://github.com/li-haojia/Clean-robot-turtlebot3
+https://www.guyuehome.com/wap/detail?id=1825491711791263746
+"""
 import math
 import yaml
 import numpy as np
